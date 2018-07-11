@@ -1,0 +1,8 @@
+2018-06-01T15:30:48.228 : Item snickers vended
+2018-06-01T15:30:48.325 : vendItem: 5Item: snickers |Price: 2.50 |Inventory: 9snickers
+2018-06-01T15:30:48.326 : Change Given
+2018-06-01T15:30:48.326 : getChange: 2.50
+2018-06-01T15:56:17.281 : vendItem: 5Item: snickers |Price: 2.50 |Inventory: 8snickers
+2018-06-01T15:56:17.349 : getChange: 2.50
+2018-06-03T20:14:14.070 : vendItem: 5Item: snickers |Price: 2.50 |Inventory: 7snickers
+2018-06-03T20:14:14.143 : getChange: 2.50
